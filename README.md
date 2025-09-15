@@ -24,4 +24,4 @@ A weekly log of experiments, builds, and fixes — from coding projects and dev 
 - Refactored blob logic in Icepick (Tetris-inspired React game) to handle random side-drop collisions and began planning debug overlays.  
 
 **Week of Aug 4, 2025**  
-- Health focus + coding balance; explored GLP-1 effects while sketching step-through debug mode for Icepick’s blob engine.  
+- Health focus + coding balance; learned Awesome1111/Stable Diffusion while sketching step-through debug mode for Icepick’s blob engine.  
