@@ -1,11 +1,5 @@
-# tinker-log
+# Tinker-log
 A weekly log of experiments, builds, and fixes — from coding projects and dev workflows to system tinkering and automation. Latest entries at the top, full archive below.
-
-# Tinker Log
-
-A weekly log of what I’ve been building, fixing, or exploring.  
-Latest entries at the top — full archive below.
-
 ---
 
 ## September 2025
